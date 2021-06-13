@@ -1,1 +1,1 @@
-echo "echo '<h1><marquee></marquee><h1>'" > index.html
+echo "'<h1><marquee>test jenkins v2</marquee><h1>'" > index.html
